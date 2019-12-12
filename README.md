@@ -1,2 +1,2 @@
-# default-chub
-Default certified repo template for kportal student
+# default-bhub
+Default template for building new course
